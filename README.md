@@ -1,3 +1,3 @@
 # letstart
 this is first 
-author - jerin 
+author - jerry
